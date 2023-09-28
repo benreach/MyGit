@@ -1,0 +1,1 @@
+Hello! This is just for beginner Git and Github
